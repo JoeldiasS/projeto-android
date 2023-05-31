@@ -79,7 +79,7 @@ nav {
 nav > a {
     color: var(--cor5);
     text-decoration: none;
-    margin: 30px;
+    margin: 20px;
     transition-duration: 1s;
 }
 
